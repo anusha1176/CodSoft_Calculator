@@ -1,1 +1,1 @@
-# CodeClauseInternship_Calculator
+# CodSoft_Calculator
